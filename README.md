@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Tengwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtengwei&show_icons=true&theme=radical)
+![Tengwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtengwei&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **gtengwei/gtengwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
